@@ -2,7 +2,7 @@
 <img src="https://new.liamrbsn.com/wp-content/uploads/2023/03/3dgifmaker81353.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Liam Robinson, a full-time graphic designer 👨‍💻 who loves working on nodejs backend projects 🚀</div>  
+### <div align="center">I'm Liam Robinson, a full-time graphic designer 👨‍💻 who loves working on frontend & nodejs backend projects 🚀</div>  
 
 # 💫 About Me:
 - 🔭 I’m currently working on [Planet Reallife](https://planet-rl.de/)
