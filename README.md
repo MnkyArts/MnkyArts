@@ -22,3 +22,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MnkyArts&icon=0&color=0)](https://visitcount.itsvg.in)
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://w.wallhaven.cc/full/2y/wallhaven-2yxp16.jpg');]{x0000}$}
