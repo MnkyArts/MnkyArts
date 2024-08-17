@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on [Twitch Follower Whitelister](https://github.com/MnkyArts/Twitch-Whitelist)
-- 👯 I’m looking to collaborate on [Athena Framework](https://github.com/stuyk/altv-athena)
+- 👯 I’m looking to collaborate on [Rebar Framework](https://github.com/Stuyk/rebar-altv)
 - 👨‍💻 All of my projects are available at [liamrbsn.com](https://liamrbsn.com/portfolio.pdf)
 
 
