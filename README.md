@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://new.liamrbsn.com/wp-content/uploads/2023/03/3dgifmaker81353.gif" align="center" style="width: 100%" />
+<img src="https://i.imgur.com/pBOJiSU.png" align="center" style="width: 15%" />
 </div>  
 
 ### <div align="center">I'm Liam Robinson, a full-time graphic designer 👨‍💻 who loves working on frontend & nodejs backend projects 🚀</div>  
