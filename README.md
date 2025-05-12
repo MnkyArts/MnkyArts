@@ -5,8 +5,8 @@
 ### <div align="center">I'm Liam Robinson, a full-time web designer 👨‍💻 who loves working on frontend & nodejs backend projects 🚀</div>  
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Tanjun Website](https://github.com/shyim/tanjun-website)
-- 👯 I’m looking to collaborate on [Rebar Framework](https://github.com/Stuyk/rebar-altv)
+- 🔭 I’m currently working on [VueSymfonyBoilerplate](https://github.com/MnkyArts/VueSymfonyBoilerplate)
+- 👯 I’m looking to collaborate on [VueSymfonyBoilerplate](https://github.com/MnkyArts/VueSymfonyBoilerplate)
 - 👨‍💻 All of my projects are available at [liamrbsn.com](https://liamrbsn.com/portfolio.pdf)
 
 
