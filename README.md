@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/pBOJiSU.png" align="center" style="width: 15%" />
 </div>  
 
-### <div align="center">I'm Liam Robinson, a full-time web designer 👨‍💻 who loves working on frontend & nodejs backend projects 🚀</div>  
+### <div align="center">I'm Liam Robinson, a full-time developer 👨‍💻 who loves working on frontend & backend projects 🚀</div>  
 
 # 💫 About Me:
 - 🔭 I’m currently working on [VueSymfonyBoilerplate](https://github.com/MnkyArts/VueSymfonyBoilerplate)
