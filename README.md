@@ -5,8 +5,8 @@
 ### <div align="center">I'm Liam Robinson, a full-time developer 👨‍💻 who loves working on frontend & backend projects 🚀</div>  
 
 # 💫 About Me:
-- 🔭 I’m currently working on [VueSymfonyBoilerplate](https://github.com/MnkyArts/VueSymfonyBoilerplate)
-- 👯 I’m looking to collaborate on [VueSymfonyBoilerplate](https://github.com/MnkyArts/VueSymfonyBoilerplate)
+- 🔭 I’m currently working on [Project Avalanche](https://github.com/MnkyArts/ProjectAvalanche)
+- 👯 I’m looking to collaborate on [Project Avalanche](https://github.com/MnkyArts/ProjectAvalanche)
 - 👨‍💻 All of my projects are available at [liamrbsn.com](https://liamrbsn.com/portfolio.pdf)
 
 
